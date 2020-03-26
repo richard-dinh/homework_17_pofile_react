@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homework_17_pofile_react/static/css/main.8031413f.chunk.css",
+    "main.js": "/homework_17_pofile_react/static/js/main.13b2a80b.chunk.js",
+    "main.js.map": "/homework_17_pofile_react/static/js/main.13b2a80b.chunk.js.map",
+    "runtime-main.js": "/homework_17_pofile_react/static/js/runtime-main.0900cbc0.js",
+    "runtime-main.js.map": "/homework_17_pofile_react/static/js/runtime-main.0900cbc0.js.map",
+    "static/js/2.7903a36d.chunk.js": "/homework_17_pofile_react/static/js/2.7903a36d.chunk.js",
+    "static/js/2.7903a36d.chunk.js.map": "/homework_17_pofile_react/static/js/2.7903a36d.chunk.js.map",
+    "index.html": "/homework_17_pofile_react/index.html",
+    "precache-manifest.63c1c429df618afd062974203639c232.js": "/homework_17_pofile_react/precache-manifest.63c1c429df618afd062974203639c232.js",
+    "service-worker.js": "/homework_17_pofile_react/service-worker.js",
+    "static/css/main.8031413f.chunk.css.map": "/homework_17_pofile_react/static/css/main.8031413f.chunk.css.map",
+    "static/js/2.7903a36d.chunk.js.LICENSE.txt": "/homework_17_pofile_react/static/js/2.7903a36d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0900cbc0.js",
+    "static/js/2.7903a36d.chunk.js",
+    "static/css/main.8031413f.chunk.css",
+    "static/js/main.13b2a80b.chunk.js"
+  ]
+}

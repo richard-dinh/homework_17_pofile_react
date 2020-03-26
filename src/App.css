@@ -1,0 +1,47 @@
+.footStyle {
+  /* Makes footer always at the bottom of the page */
+  position: fixed;
+  bottom: 0;
+  background-color: black;
+  color: white;
+  text-align: center;
+  /* Makes the footer expand the width of the page */
+  width: 100%;
+  padding: 10px;
+}
+
+.imgStyle {
+  /* To prevent img from overflowing out of div when resizing */
+  max-width: 60%;
+  max-height: 60%;
+  float: left;
+  margin-right: 10px;
+}
+
+.mainStyle {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.portImg, .cardStyle {
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+body {
+  background-color: rgb(120, 172, 120);
+  margin-bottom: 50px;
+}
+
+main {
+  background-color: white;
+}
+
+hr {
+  border: 1px solid black;
+}
